@@ -7,6 +7,11 @@
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
+<p>
+
+## 💻 Projeto
+
+Projeto de criação de uma bateria, que utiliza eventos do teclado para ser acionada para o Evento "7 Projetos em 7 Dias - Desafio 1".
 
 ## 🚀 Tecnologias
 
@@ -15,10 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-
-## 💻 Projeto
-
-Projeto de criação de uma bateria, que utiliza eventos do teclado para ser acionada para o Evento "7 Projetos em 7 Dias - Desafio 1".
 
 ## 📝 License
 
